@@ -82,9 +82,11 @@ Sample file available at:
 
 ## 📷 Screenshots
 <ul>
+
   <li>Home</li>
+
+  ![Screenshot 2025-06-28 124435](https://github.com/user-attachments/assets/6d6359c2-d74e-40e7-a580-131abd2fca6a)
   
-  ![Screenshot 2025-06-27 215823](https://github.com/user-attachments/assets/5f958d58-2f37-4e0b-ab85-9380c9ac0cbc)
 
   
 <li>Upload csv </li>
