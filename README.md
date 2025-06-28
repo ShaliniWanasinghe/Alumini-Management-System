@@ -127,3 +127,7 @@ MIT License – You are free to use, modify, and distribute this project.
 University of Vavuniya – Faculty of Applied Sciences  
 🗓️ Year: 2025  
 📧 Feel free to reach out
+
+---
+
+`PHP`, `MySQL`, `Alumni Management System`, `University Project`, `Web Application`, `CSV Upload`, `Event Management`, `Admin Dashboard`, `Open Source`, `Student Project`, `University System`, `Academic Portal`, `XAMPP`, `phpMyAdmin`, `Database Project`, `User Authentication`, `Alumni Portal`, `Backend Development`, `MIT License`
